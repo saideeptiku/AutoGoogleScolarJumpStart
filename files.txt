@@ -1,0 +1,215 @@
+the evolution of the gps receiver
+design and analysis of a bluetoothbased indoor localization system
+a survey of indoor localization systems and technologies
+indoor localization without the pain
+practical robust localization over large-scale 802.11 wireless networks
+a system for lease: location estimation assisted by stationary emitters for indoor rf wireless networks
+towards fine-grained radio-based indoor location
+multipath triangulation: decimeter-level wifi localization and orientation with a single unaided receiver
+ultra wideband indoor positioning technologies: analysis and recent advances
+indoor positioning of shoppers using a network of bluetooth low energy beacons
+a measurement study of zigbee-based indoor localization systems under rf interference
+a hybrid indoor positioning solution based on wi-fi, magnetic field, and inertial navigation
+ujiindoorloc: a new multi-building and multi-floor database for wlan fingerprint-based indoor localization problems
+radar: an in-building rf-based user location and tracking system
+learnloc: a framework for smart indoor localization with embedded mobile devices
+deep neural networks for wireless localization in indoor and outdoor environments
+deepfi: deep learning for indoor fingerprinting using channel state information
+confi: convolutional neural networks based indoor wi-fi localization using channel state information
+deep belief network for fingerprinting-based rfid indoor localization
+conditional deep learning for energy-efficient and enhanced pattern recognition
+branchynet: fast inference via early exiting from deep neural networks
+adapting convolutional neural networks for indoor localization with smart mobile devices
+gradient-based learning applied to document recognition
+imagenet classification with deep convolutional neural networks
+analysis of human walking and running parameters as a function of speed
+a mathematical theory of communication
+densely connected convolutional networks
+freeloc: calibrationfree crowdsourced indoor localization
+a study on indoor pedestrian localization algorithms with foot-mounted sensors
+footpath: accurate map-based indoor navigation using smartphones
+dead reckoning navigational system using accelerometer to measure foot impacts
+a step, stride and heading determination for the pedestrian navigation system
+a survey of indoor inertial positioning systems for pedestrians
+dead reckoning from the pocket—an experimental study
+an indoor self-localization algorithm using the calibration of the online magnetic fingerprints and indoor landmarks
+radar: an in-building rf-based user location and tracking system
+place lab: device positioning using radio beacons in the wild
+indoor localization without the pain
+an rf tof based ranging implementation for sensor networks
+positioning using time-difference of arrival measurements
+acoustic self-calibrating system for indoor smartphone tracking
+arraytrack: a fine-grain indoor location system
+an autonomous uav with an optical flow sensor for positioning and navigation
+indoor navigation on wheels (and on foot) using smartphones
+indoor pdr performance enhancement using minimal map information and particle filters
+a new approach to linear filtering and prediction problems
+an imu/magnetometer-based indoor positioning system using kalman filtering
+estimation of imu and marg orientation using a gradient descent algorithm
+complementary filter design on the special orthogonal group
+learnloc: a framework for smart indoor localization with embedded mobile devices
+surroundsense: mobile phone localization via ambience fingerprinting
+alps: a bluetooth and ultrasound platform for mapping and localization
+idyll: indoor localization using inertial and light sensors on smartphones
+pose estimation using monocular vision and inertial sensors aided with ultra wide band
+a multi-hypothesis particle filtering approach for pedestrian dead reckoning
+energy-efficient localization and tracking on smartphones: design principle and solutions
+are smartphones ubiquitous? an in-depth survey of smartphone adoption by seniors
+everything you wanted to know about smart cities: the internet of things is the backbone
+portloc: a portable data-driven indoor localization framework for smartphones
+sherpa: a lightweight smartphone heterogeneity resilient portable indoor localization framework
+adapting convolutional neural networks for indoor localization with smart mobile devices
+overcoming security vulnerabilities in deep learning based indoor localization frameworks on mobile devices
+indoor localization with smartphones
+energy-efficient and robust middleware prototyping for smart mobile computing
+data analytics enables energy-efficiency and robustness: from mobile to manycores, datacenters, and networks
+an indoor localization mechanism using active rfid tag
+modeling rfid signal distribution based on neural network combined with continuous ant colony optimization
+ujiindoorloc: a new multi-building and multi-floor database for wlan fingerprint-based indoor localization problems
+learnloc: a framework for smart indoor localization with embedded mobile devices
+a tutorial survey of architectures, algorithms, and applications for deep learning
+walrus: wireless acoustic location with room-level resolution using ultrasound
+wifi-based indoor positioning
+radar: an in-building rfbased user location and tracking system
+deep neural networks for wireless localization in indoor and outdoor environments
+deepfi: deep learning for indoor fingerprinting using channel state information
+confi: convolutional neural networks based indoor wi-fi localization using channel state information
+deep belief networks and deep learning
+adam: a method for stochastic optimization
+adaptive subgradient methods for online learning and stochastic optimization
+gradient-based learning applied to document recognition
+imagenet classification with deep convolutional neural networks
+pearson correlation coefficient
+hadamard products and multivariate statistical analysis
+machine-learning indoor localization with access point selection and signal strength reconstruction
+learning a deep neural net policy for end-to-end control of autonomous vehicles
+indoor localization with smartphones
+energy-efficient and robust middleware prototyping for smart mobile computing
+mobile network-aware middleware framework for energy-efficient cloud offloading of smartphone applications
+a middleware framework for application-aware and user-specific energy optimization in smart mobile devices
+contextaware energy enhancements for smart mobile devices
+enterprise indoor lbs market in the us 2016-2020
+indoor localization with smartphones
+learnloc: a framework for smart indoor localization with embedded mobile devices
+adapting convolutional neural networks for indoor localization with smart mobile devices
+ensemble based real-time indoor localization using stray wifi signal
+cifi: deep convolutional neural networks for indoor localization with 5 ghz wi-fi
+improved neighboring reference points selection method for wi-fi based indoor localization
+implications of device diversity for organic localization
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+indoor localization without the pain
+real-time indoor localization with tdoa and distributed software defined radio: demonstration abstract
+towards fine-grained radio-based indoor location
+multipath triangulation: decimeter-level wifi localization and orientation with a single unaided receiver
+indoor location fingerprinting with heterogeneous clients
+time-space sampling and mobile device calibration for wi-fi indoor location systems
+practical robust localization over large-scale 802.11 wireless networks
+calibration-free approaches for robust wi-fi positioning against device diversity: a performance comparison
+hyperbolic location fingerprinting: a calibration-free solution for handling differences in signal strength
+ssd: a robust rf location fingerprint addressing mobile devices' heterogeneity
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+a reliable and accurate indoor localization method using phone inertial sensors
+effects of obesity and sex on the energetic cost and preferred speed of walking
+rank based fingerprinting algorithm for indoor positioning
+a middleware framework for application-aware and user-specific energy optimization in smart mobile devices
+contextaware energy enhancements for smart mobile devices
+exploiting spatiotemporal and device contexts for energy-efficient mobile embedded systems
+aura: an application and user interaction aware middleware framework for energy optimization in mobile devices
+energy-efficient and robust middleware prototyping for smart mobile computing
+data analytics enables energy-efficiency and robustness: from mobile to manycores, datacenters, and networks
+an introduction to correlation and regression
+enterprise indoor lbs market in the us 2016-2020
+indoor localization with smartphones
+learnloc: a framework for smart indoor localization with embedded mobile devices
+adapting convolutional neural networks for indoor localization with smart mobile devices
+ensemble based real-time indoor localization using stray wifi signal
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+ssd: a robust rf location fingerprint addressing mobile devices’ heterogeneity
+indoor location fingerprinting with heterogeneous clients
+time-space sampling and mobile device calibration for wifi indoor location systems
+calibration-free approaches for robust wi-fi positioning against device diversity: a performance comparison
+hyperbolic location fingerprinting: a calibration-free solution for handling differences in signal strength (concise contribution)
+rank based fingerprinting algorithm for indoor positioning
+outlier detection technique for rss-based localization problems in wireless sensor networks
+a joint indoor wlan localization and outlier detection scheme using las-so and elastic-net optimization techniques
+real-time in-door localization with tdoa and distributed software de-fined radio: demonstration abstract
+sub-nanosecond time of flight on commercial wi-fi cards
+awl: turning spatial aliasing from foe to friend for accurate wifi localization
+modeling, evaluation and detection of jamming attacks in timecritical wireless applications
+multipath tri-angulation: decimeter-level wi-fi localization and orientation with a single unaided receiver
+learnloc: a framework for smart indoor localization with embedded mobile devices
+adapting convolutional neural networks for indoor localization with smart mobile devices
+secure and robust wi-fi finger-printing indoor localization
+deep neural networks for wireless localization in indoor and outdoor environments
+machine-learning indoor localization with access point selection and signal strength reconstruction
+radar: an in-building rf-based user location and tracking system
+indoor positioning of shoppers using a network of bluetooth low energy beacons
+a measurement study of zigbee-based indoor localization systems under rf interference
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+talc: time adaptive indoor localization with little cost
+using checksums to detect data corruption
+multi-user location correlation protection with differential privacy
+smartphones based crowdsourcing for indoor localization
+selective jamming/dropping insider attacks in wireless mesh networks
+modeling, evaluation and detection of jamming attacks in timecritical wireless applications
+the feasibility of launch-ing and detecting jamming attacks in wireless networks
+accurate sybil attack detection based on fine-grained physical channel information
+predicting model for identifying the malicious activity of nodes in manets
+gradient-based learning applied to document recognition
+digital image smoothing and the sigma filter
+deepfi: deep learning for indoor fingerprinting using channel state information
+rank based fingerprinting algorithm for indoor positioning
+gradient-based fingerprinting for indoor localization and tracking
+image de-noising method based on a deep convolution neural network
+semisupervised deep reinforcement learning in support of iot and smart city ser-vices
+modeling and characterization of gps spoof-ing
+attacks on gps time reliability
+crowd-gps-sec: leveraging crowdsourcing to detect and localize gps spoofing attacks
+overview of indoor positioning technologies for context aware aal applications
+a survey on automatic fall detection in the context of ambient assisted living systems
+empirical analysis of cyber-attacks to an indoor real time localization system for autonomous robots
+detection of cyber-attacks to indoor real time localization systems for autonomous robots
+indoor localization with smartphones: harnessing the sensor suite in your pocket
+portloc: a portable data-driven indoor localization framework for smartphones
+sherpa: a lightweight smartphone heterogeneity resilient portable indoor localization framework
+enterprise indoor lbs market in the us 2016-2020
+indoor localization with smartphones
+learnloc: a framework for smart indoor localization with embedded mobile devices
+adapting convolutional neural networks for indoor localization with smart mobile devices
+ensemble based real-time indoor localization using stray wifi signal
+cifi: deep convolutional neural networks for indoor localization with 5 ghz wi-fi
+improved neighboring reference points selection method for wi-fi based indoor localization
+implications of device diversity for organic localization
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+indoor localization without the pain
+real-time indoor localization with tdoa and distributed software defined radio: demonstration abstract
+towards fine-grained radio-based indoor location
+multipath triangulation: decimeter-level wifi localization and orientation with a single unaided receiver
+indoor location fingerprinting with heterogeneous clients
+time-space sampling and mobile device calibration for wi-fi indoor location systems
+practical robust localization over large-scale 802.11 wireless networks
+calibration-free approaches for robust wi-fi positioning against device diversity: a performance comparison
+hyperbolic location fingerprinting: a calibration-free solution for handling differences in signal strength
+ssd: a robust rf location fingerprint addressing mobile devices' heterogeneity
+a robust indoor positioning system based on the procrustes analysis and weighted extreme learning machine
+a reliable and accurate indoor localization method using phone inertial sensors
+effects of obesity and sex on the energetic cost and preferred speed of walking
+rank based fingerprinting algorithm for indoor positioning
+a middleware framework for application-aware and user-specific energy optimization in smart mobile devices
+contextaware energy enhancements for smart mobile devices
+exploiting spatiotemporal and device contexts for energy-efficient mobile embedded systems
+aura: an application and user interaction aware middleware framework for energy optimization in mobile devices
+energy-efficient and robust middleware prototyping for smart mobile computing
+data analytics enables energy-efficiency and robustness: from mobile to manycores, datacenters, and networks
+an introduction to correlation and regression
+a hybrid indoor positioning algorithm based on wifi fingerprinting and pedestrian dead reckoning
+a segment-based fusion algorithm of wifi fingerprinting and pedestrian dead reckoning
+a hybrid indoor positioning solution based on wi-fi, magnetic field, and inertial navigation
+an hmm map-matching approach enhancing indoor positioning performances of an inertial measurement system
+multi-floor map matching in indoor environments for mobile platforms
+sherpa: a lightweight smartphone heterogeneity resilient portable indoor localization framework
+context-sensitive hidden markov models for modeling long-range dependencies in symbol sequences
+hidden markov models: an insight
+hmm-based indoor localization using smart watches' ble signals
+lstm and hmm comparison for home activity anomaly detection
+unsupervised cross-lingual speaker adaptation for hmm-based speech synthesis
